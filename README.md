@@ -10,8 +10,8 @@
 
 ### Output of different filters
 #### single slit 
-![alt text for screen readers](1.jpg)
+![alt text for screen readers](1.png)
 #### double slit 
-![alt text for screen readers](2.jpg)
+![alt text for screen readers](2.png)
 ##### pinhole
-![alt text for screen readers](3.jpg)
+![alt text for screen readers](3.png)
