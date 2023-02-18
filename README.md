@@ -1,9 +1,9 @@
 # 4F_Imaging-_system
 
 ### System overview
-![alt text for screen readers](Picure1.png)
+![alt text for screen readers](Picture1.png)
 #### filter effect
-![alt text for screen readers](Picure2.png)
+![alt text for screen readers](Picture2.png)
 
 ### Input Image
 ![alt text for screen readers](InputImage.jpg)
